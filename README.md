@@ -2,8 +2,6 @@
 
 RapidTicket is a real-time movie ticket booking platform designed to handle concurrent bookings, ensure dynamic seat allocation, and provide instant updates using WebSocket technology. It enhances the user experience by allowing seamless ticket reservations with real-time feedback and booking history tracking.
 
-## 🎟️ Overview  
-RapidTicket is a real-time ticket booking system designed to handle concurrent bookings, dynamic seat allocation, and instant updates, providing a seamless experience for both users and administrators.  
 
 ### 🚀 Why RapidTicket?  
 ✔️ Optimizes seat allocation with real-time availability tracking  
