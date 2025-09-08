@@ -20,11 +20,11 @@ RapidTicket is a real-time movie ticket booking platform designed to handle conc
 ![Demo Image 4](./demo/image4.png)  
 ![Demo Image 5](./demo/image5.png)  
 ![Demo Image 6](./demo/image6.png)  
-![Demo Image 7](./demo/image7.png)  
+
 ![Demo Image 8](./demo/image8.png) ![Demo Image 9](./demo/image9.png) 
-![Demo Image 10](./demo/image10.png) 
+ 
 ![Demo Image 11](./demo/image11.png) 
-![Demo Image 12](./demo/image12.png) 
+ 
  
 
 ---
