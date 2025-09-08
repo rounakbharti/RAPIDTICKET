@@ -47,7 +47,7 @@ RapidTicket is a real-time movie ticket booking platform designed to handle conc
 ## 🛠️ Technologies Used  
 - **Frontend:** ReactJS, JavaScript, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** MySQL  
 - **Real-Time Communication:** WebSocket  
 
 ---
